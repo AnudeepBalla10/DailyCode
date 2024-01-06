@@ -11,6 +11,8 @@ Ex: Given the following arrays...
 - nums1 = [1, 2, 3, 3], nums2 = [3, 3], return [3]
 - nums1 = [2, 4, 6, 8], nums2 = [1, 3, 5, 7], return []
 
+
+### LeetCode: https://leetcode.com/problems/intersection-of-two-arrays
 ```java
 import java.util.HashSet;
 import java.util.Arrays;

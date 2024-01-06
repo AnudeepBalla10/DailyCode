@@ -10,6 +10,8 @@ Ex: Given the following strings...
 - "thedailybyte", return 1
 - "developer", return 0
 
+### LeetCode: https://leetcode.com/problems/first-unique-character-in-a-string
+
 ```java
 import java.util.HashMap;
 import java.util.Map;
